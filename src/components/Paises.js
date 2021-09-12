@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react"
 import { Link } from "react-router-dom"
-import Filter from "./Filter"
+import Filter from "./Filtro"
 
 const url = "https://restcountries.eu/rest/v2/all"
 
