@@ -12,7 +12,7 @@ const Header = () => {
     <>
       <header className="inicio">
         <div>
-          <h1>Encontre informações sobre o pais que deseja.</h1>
+          <h1>Encontre informações sobre os países que deseja.</h1>
         </div>
       </header>
     </>
