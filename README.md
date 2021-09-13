@@ -1,5 +1,5 @@
-##INICIAR A APLICAÇÃO
+<h1>INICIAR A APLICAÇÃO</h1>
 
-<h1> npm i </h1>
-<h1> npm audit </h1>
-<h1> npm start </h1>
+<p>npm i</p>
+<p>npm audit</p>
+<p>npm start</p>
